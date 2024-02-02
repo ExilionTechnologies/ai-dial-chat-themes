@@ -3,7 +3,7 @@
     {
       "displayName": "Dark",
       "id": "dark",
-      "app-logo": "",
+      "app-logo": "logo-dark.png",
       "colors": {
         "bg-layer-0": "#000000",
         "bg-layer-1": "#090D13",
